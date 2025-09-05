@@ -43,7 +43,8 @@ const Index = () => {
                 ReportWeave
               </h1>
               <p className="text-muted-foreground font-medium tracking-wide">
-                Luxury Real Estate Intelligence Platform
+              Real estate data extraction and compilation tool
+              
               </p>
             </div>
           </div>
